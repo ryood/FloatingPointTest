@@ -1,0 +1,13 @@
+
+Floating Point Test
+LOOP_N  100
+op      start   end     elapse
+-------------------------------
+div     1       1320    1319
+sinf    0       6916    6916
+cosf    0       8000    8000
+expf    0       8638    8638
+logf    0       10625   10625
+sqrtf   0       2435    2435
+
+
