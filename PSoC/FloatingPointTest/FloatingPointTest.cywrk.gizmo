@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source">
+<ExpandedNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest\TopDesign</v>
+<v>FloatingPointTest\FloatingPointTest\FloatingPointTest.cydwr</v>
+<v>FloatingPointTest\FloatingPointTest\Header Files\cyapicallbacks.h</v>
+<v>FloatingPointTest\FloatingPointTest\Source Files\main.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\Clock_1</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\Clock_1\Clock_1.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\Clock_1\Clock_1.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cmsis_armcc.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cmsis_gcc.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cypins.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_lfclk</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_lfclk\CyLFClk.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cy_lfclk\CyLFClk.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\Timer_1</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\Timer_1\Timer_1.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\Timer_1\Timer_1.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\Timer_1\Timer_1_PM.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_BOOT.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_BOOT.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_PINS.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_PM.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_PVT.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_SPI_UART.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_SPI_UART.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_SPI_UART_INT.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_SPI_UART_PVT.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_UART.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART\UART_UART_BOOT.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_rx</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_rx\UART_rx.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_rx\UART_rx.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_rx\UART_rx_aliases.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_rx\UART_rx_PM.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_SCBCLK</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_SCBCLK\UART_SCBCLK.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_SCBCLK\UART_SCBCLK.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_tx</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_tx\UART_tx.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_tx\UART_tx.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_tx\UART_tx_aliases.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\UART_tx\UART_tx_PM.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cyfitter.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\cymetadata.c</v>
+<v>FloatingPointTest\FloatingPointTest\Generated_Source\PSoC4\project.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\TopDesign</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\FloatingPointTest_PSoC5LP.cydwr</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Header Files</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Header Files\cyapicallbacks.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Source Files</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Source Files\main.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\Clock_1</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\Clock_1\Clock_1.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\Clock_1\Clock_1.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\Counter_1</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\Counter_1\Counter_1.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\Counter_1\Counter_1.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\Counter_1\Counter_1_PM.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\Cm3Iar.icf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cmsis_armcc.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cmsis_gcc.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\core_cmFunc.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\core_cmInstr.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyBootAsmIar.s</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cypins.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CySpc.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\CySpc.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cytypes.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cy_boot\cyutils.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1\UART_1.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1\UART_1.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1\UART_1_BOOT.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1\UART_1_INT.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1\UART_1_PM.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1_IntClock</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1_IntClock\UART_1_IntClock.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\UART_1_IntClock\UART_1_IntClock.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydevice.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cyfitter.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\cymetadata.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source\PSoC5\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\TopDesign</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\FloatingPointTest_PSoC5LP.cydwr</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Header Files</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Header Files\cyapicallbacks.h</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Source Files</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Source Files\main.c</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest\TopDesign</v>
+<v>FloatingPointTest\FloatingPointTest\TopDesign\TopDesign.cysch</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\TopDesign</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest\TopDesign</v>
+<v>FloatingPointTest\FloatingPointTest\TopDesign\TopDesign.cysch</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\TopDesign</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Timer_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Timer_1_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_BOOT.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_rx.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_tx.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_UART.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\FloatingPointTest.elf</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\FloatingPointTest.hex</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\FloatingPointTest.map</v>
+<v>FloatingPointTest\FloatingPointTest\FloatingPointTest.gpdsc</v>
+<v>FloatingPointTest\FloatingPointTest\FloatingPointTest.rpt</v>
+<v>FloatingPointTest\FloatingPointTest\FloatingPointTest_timing.html</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Counter_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Counter_1_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CySpc.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_INT.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\UART_1_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\FloatingPointTest_PSoC5LP.elf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\FloatingPointTest_PSoC5LP.hex</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\FloatingPointTest_PSoC5LP.map</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\FloatingPointTest_PSoC5LP.gpdsc</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\FloatingPointTest_PSoC5LP.rpt</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\FloatingPointTest_PSoC5LP_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Timer_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\Timer_1_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_BOOT.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_rx.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_tx.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_UART.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\FloatingPointTest.elf</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\FloatingPointTest.hex</v>
+<v>FloatingPointTest\FloatingPointTest\CortexM0\ARM_GCC_493\Debug\FloatingPointTest.map</v>
+<v>FloatingPointTest\FloatingPointTest\FloatingPointTest.gpdsc</v>
+<v>FloatingPointTest\FloatingPointTest\FloatingPointTest.rpt</v>
+<v>FloatingPointTest\FloatingPointTest\FloatingPointTest_timing.html</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Clock_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Cm3Start.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Counter_1.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\Counter_1_PM.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyDmac.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CortexM3\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest\PSoC 4 Architecture TRM</v>
+<v>FloatingPointTest\FloatingPointTest\PSoC 4200 Family Datasheet</v>
+<v>FloatingPointTest\FloatingPointTest\System Reference Guides</v>
+<v>FloatingPointTest\FloatingPointTest\System Reference Guides\cy_boot_v5_40</v>
+<v>FloatingPointTest\FloatingPointTest\System Reference Guides\cy_lfclk_v1_10</v>
+<v>FloatingPointTest\FloatingPointTest\cy_clock_v2_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest\SCB_P4_v3_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest\TCPWM_P4_v2_10.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\PSoC 5 Architecture TRM</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CY8C58LP Family Datasheet</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\System Reference Guides</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\System Reference Guides\cy_boot_v5_40</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Counter_v3_0.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\cy_clock_v2_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\cy_pins_v2_20</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest</v>
+<v>FloatingPointTest\FloatingPointTest\PSoC 4 Architecture TRM</v>
+<v>FloatingPointTest\FloatingPointTest\PSoC 4200 Family Datasheet</v>
+<v>FloatingPointTest\FloatingPointTest\System Reference Guides</v>
+<v>FloatingPointTest\FloatingPointTest\System Reference Guides\cy_boot_v5_40</v>
+<v>FloatingPointTest\FloatingPointTest\System Reference Guides\cy_lfclk_v1_10</v>
+<v>FloatingPointTest\FloatingPointTest\cy_clock_v2_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest\SCB_P4_v3_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest\TCPWM_P4_v2_10.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\PSoC 5 Architecture TRM</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\CY8C58LP Family Datasheet</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\System Reference Guides</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\System Reference Guides\cy_boot_v5_40</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\Counter_v3_0.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\cy_clock_v2_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\cy_pins_v2_20</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>FloatingPointTest\FloatingPointTest_PSoC5LP\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\FloatingPointTest_PSoC5LP.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\FloatingPointTest_PSoC5LP.cydsn\FloatingPointTest_PSoC5LP.cydwr" />
+<name v=".\FloatingPointTest_PSoC5LP.cydsn\main.c" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
